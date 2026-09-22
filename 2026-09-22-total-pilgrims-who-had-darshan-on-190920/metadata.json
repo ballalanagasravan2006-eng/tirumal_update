@@ -1,0 +1,26 @@
+{
+  "news_id": "ttd-1790090097597",
+  "title": "Total pilgrims who had darshan on 19.09.2026: 83,589",
+  "published_date": "2026-09-22T15:14:57.597941+00:00",
+  "category": "Brahmotsavams",
+  "source": "Official TTD News",
+  "source_url": "https://news.tirumala.org/total-pilgrims-who-had-darshan-on-18-09-2026-83589/",
+  "verification_status": "VERIFIED",
+  "media": {
+    "video": {
+      "found": false,
+      "source_url": null,
+      "downloaded": false,
+      "rights_status": "NO_VIDEO"
+    },
+    "images": []
+  },
+  "assets": {
+    "thumbnail": "thumbnail.jpg",
+    "poster": "poster.jpg",
+    "telugu_script": "scripts/telugu.txt",
+    "hindi_script": "scripts/hindi.txt",
+    "english_script": "scripts/english.txt"
+  },
+  "created_at": "2026-09-22T15:15:04.947029+00:00"
+}
