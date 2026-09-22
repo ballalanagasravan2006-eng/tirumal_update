@@ -1,0 +1,31 @@
+{
+  "news_id": "ttd-1790092090224",
+  "title": "CULTURAL PROGRAMMES ENRICH BRAHMOTSAVAMS IN TIRUPATI _ తిరుపతిలో బ్రహ్మోత్సవాల సాంస్కృతిక శోభ",
+  "published_date": "2026-09-22T15:48:10.224473+00:00",
+  "category": "Brahmotsavams",
+  "source": "Official TTD News",
+  "source_url": "https://news.tirumala.org/cultural-programmes-enrich-brahmotsavams-in-tirupati-_-%e0%b0%a4%e0%b0%bf%e0%b0%b0%e0%b1%81%e0%b0%aa%e0%b0%a4%e0%b0%bf%e0%b0%b2%e0%b1%8b-%e0%b0%ac%e0%b1%8d%e0%b0%b0%e0%b0%b9%e0%b1%8d%e0%b0%ae%e0%b1%8b/",
+  "verification_status": "VERIFIED",
+  "media": {
+    "video": {
+      "found": false,
+      "source_url": null,
+      "downloaded": false,
+      "rights_status": "NO_VIDEO"
+    },
+    "images": [
+      "https://news.tirumala.org/wp-content/uploads/2026/09/SMT-VISHNU-PRIYA-BHARAD-WAJ-AT-AKM-01-copy-300x200.jpg",
+      "https://news.tirumala.org/wp-content/uploads/2026/09/SRI-P-RAVI-SUBRAMANYAM-BRUNDAM-AT-MAHATHI-02-copy-300x200.jpg",
+      "https://news.tirumala.org/wp-content/uploads/2026/09/SRI-P-RAVI-SUBRAMANYAM-BRUNDAM-AT-MAHATHI-copy-300x200.jpg",
+      "https://news.tirumala.org/wp-content/uploads/2026/09/SV-CMD-AT-MAHATHI-copy-300x200.jpg"
+    ]
+  },
+  "assets": {
+    "thumbnail": "thumbnail.jpg",
+    "poster": "poster.jpg",
+    "telugu_script": "scripts/telugu.txt",
+    "hindi_script": "scripts/hindi.txt",
+    "english_script": "scripts/english.txt"
+  },
+  "created_at": "2026-09-22T15:48:10.421255+00:00"
+}

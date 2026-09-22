@@ -1,0 +1,30 @@
+{
+  "news_id": "ttd-1790091593865",
+  "title": "CHATRA STHAPANA HELD AHEAD OF RATHOTSAVAM _ వేడుకగా బంగారు గొడుగు ఉత్సవం",
+  "published_date": "2026-09-22T15:39:53.865353+00:00",
+  "category": "Brahmotsavams",
+  "source": "Official TTD News",
+  "source_url": "https://news.tirumala.org/%e0%b0%b5%e0%b1%87%e0%b0%a1%e0%b1%81%e0%b0%95%e0%b0%97%e0%b0%be-%e0%b0%ac%e0%b0%82%e0%b0%97%e0%b0%be%e0%b0%b0%e0%b1%81-%e0%b0%97%e0%b1%8a%e0%b0%a1%e0%b1%81%e0%b0%97%e0%b1%81-%e0%b0%89%e0%b0%a4/",
+  "verification_status": "VERIFIED",
+  "media": {
+    "video": {
+      "found": false,
+      "source_url": null,
+      "downloaded": false,
+      "rights_status": "NO_VIDEO"
+    },
+    "images": [
+      "https://news.tirumala.org/wp-content/uploads/2026/09/PROCESSION-OF-GOLD-UMBRELLA-300x200.jpg",
+      "https://news.tirumala.org/wp-content/uploads/2026/09/PROCESSION-OF-GOLD-UMBRELLA1-300x200.jpg",
+      "https://news.tirumala.org/wp-content/uploads/2026/09/PROCESSION-OF-GOLD-UMBRELLA3-300x200.jpg"
+    ]
+  },
+  "assets": {
+    "thumbnail": "thumbnail.jpg",
+    "poster": "poster.jpg",
+    "telugu_script": "scripts/telugu.txt",
+    "hindi_script": "scripts/hindi.txt",
+    "english_script": "scripts/english.txt"
+  },
+  "created_at": "2026-09-22T15:39:54.549689+00:00"
+}
